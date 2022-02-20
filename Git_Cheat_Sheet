@@ -1,0 +1,6 @@
+git clone "..."
+git push or git push origin main
+git add .
+git commit -m "A message describing waht you have doen to make this snapshot different"
+git status
+git log
